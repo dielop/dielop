@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+### Student - Entrepreneur
 
-<!--
-**dielop/dielop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Diego, I'm studying Systems Analyst and I share my repositories so they can be helpful and you can see what I'm working on. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning programming in Java
+- 🤔 I’m looking for help with my first job(Entrylevel) or internship 
+- 💬 Ask me about programming in C, C++, CSS3, HTML5 or agile metodology 💻
+- 📫 How to reach me: sadiegolopez@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Rugby 🏉
+- 🧑‍💻I would like to be a mobile developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### LINKS 
+
+🔗 LinkedIn:https://www.linkedin.com/in/diegoa-lopez/
+
+
