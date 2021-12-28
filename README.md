@@ -5,7 +5,7 @@ Hi, I'm Diego, I'm studying Systems Analyst and I share my repositories so they 
 
 - 🌱 I’m currently learning programming in Java
 - 🤔 I’m looking for help with my first job(Entrylevel) or internship 
-- 💬 Ask me about programming in C, C++, CSS3, HTML5 or agile metodology 💻
+- 💬 Ask me about programming in Java, C, C++, CSS3, HTML5 or agile metodology 💻
 - 📫 How to reach me: sadiegolopez@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Rugby 🏉
