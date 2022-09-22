@@ -1,5 +1,5 @@
 ### Welcome to my profile! 👋
-### Student - Entrepreneur
+### Student - Entrepreneur - Developer
 
 Hi, I'm Diego, I'm studying Systems Analyst and I share my repositories so they can be helpful and you can see what I'm working on. 
 
