@@ -10,7 +10,6 @@ Hi, I'm Diego, I'm studying Systems Analyst and I share my repositories so they 
 - 📫 How to reach me: sadiegolopez@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing Rugby 🏉 , chess ♟ and practice Board Sport 🏂.
-- 🧑‍ 💻 I would like to be a web developer and mobile developer.
 
 
 
